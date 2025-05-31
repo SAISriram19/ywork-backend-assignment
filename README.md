@@ -24,8 +24,8 @@ Before you begin, ensure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone [repository-url]
-cd [repository-name]
+git clone https://github.com/SAISriram19/ywork-backend-assignment.git
+cd https://github.com/SAISriram19/ywork-backend-assignment.git
 ```
 
 ### 2. Set Up Virtual Environment
